@@ -10,7 +10,11 @@
       "date": "2026-11-25",
       "thumbnail": "",
       "videoUrl": "https://drive.google.com/uc?export=download&id=1HfcTk-FbEzL_rvBnn2p4ysKo1xuJOALi",
-      "tags": ["شروع" , "مبانی"]
+      "tags": [
+        "شروع",
+        "مبانی"
+      ],
+      "orientation": "portrait"
     }
   ]
 }
